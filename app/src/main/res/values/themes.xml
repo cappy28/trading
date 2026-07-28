@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TradingSimulator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#0D1117</item>
+        <item name="android:navigationBarColor">#0D1117</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
